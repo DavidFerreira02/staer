@@ -9,3 +9,8 @@
 2024-01-02 18:25:24.563 [info] Send text to terminal: echo /bin/bash
 2024-01-02 18:25:26.183 [info] Starting Pylance language server.
 2024-01-02 18:27:33.504 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2024-01-02 20:38:25.821 [info] Using launch configuration in workspace folder.
+2024-01-02 20:38:26.356 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-02 20:38:28.158 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57163 -- /home/staer/STAER.py 
+2024-01-02 20:38:29.732 [info] Connecting to DAP Server at:  127.0.0.1:37383
+2024-01-02 20:58:53.596 [info] Discover tests for workspace name: staer - uri: /home/staer
