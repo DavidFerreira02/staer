@@ -258,3 +258,51 @@ file and the HEAD:
 2024-01-02 20:13:17.982 [info] No remotes found in the git config file.
 2024-01-02 20:13:17.983 [info] > git config --get commit.template [12ms]
 2024-01-02 20:13:17.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-01-02 20:13:18.066 [info] > git status -z -uall [65ms]
+2024-01-02 20:13:18.080 [info] > git add -A -- . [87ms]
+2024-01-02 20:13:18.609 [info] > git show --textconv :.git/COMMIT_EDITMSG [11ms]
+2024-01-02 20:13:18.621 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [14ms]
+2024-01-02 20:13:19.450 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [3ms]
+2024-01-02 20:13:19.469 [info] > git show --textconv :.git/COMMIT_EDITMSG [9ms]
+2024-01-02 20:14:35.789 [info] > git -c user.useConfigOnly=true commit --quiet [77701ms]
+2024-01-02 20:14:35.789 [info] Aborting commit due to empty commit message.
+2024-01-02 20:14:35.801 [info] > git config --get commit.template [2ms]
+2024-01-02 20:14:35.811 [info] No remotes found in the git config file.
+2024-01-02 20:14:35.812 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 20:14:35.861 [info] > git status -z -uall [42ms]
+2024-01-02 20:14:35.885 [info] No remotes found in the git config file.
+2024-01-02 20:14:35.886 [info] > git config --get commit.template [9ms]
+2024-01-02 20:14:35.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 20:14:35.946 [info] > git status -z -uall [52ms]
+2024-01-02 20:14:36.339 [info] > git show --textconv :STAER.py [13ms]
+2024-01-02 20:14:36.341 [info] > git ls-files --stage -- /home/staer/STAER.py [5ms]
+2024-01-02 20:14:36.353 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [2ms]
+2024-01-02 20:14:40.969 [info] No remotes found in the git config file.
+2024-01-02 20:14:40.971 [info] > git config --get commit.template [12ms]
+2024-01-02 20:14:40.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:14:41.036 [info] > git status -z -uall [56ms]
+2024-01-02 20:14:41.783 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [31ms]
+2024-01-02 20:14:41.793 [info] > git config --get commit.template [1ms]
+2024-01-02 20:14:41.807 [info] > git config --get commit.template [3ms]
+2024-01-02 20:14:41.816 [info] No remotes found in the git config file.
+2024-01-02 20:14:41.818 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:14:41.882 [info] > git status -z -uall [57ms]
+2024-01-02 20:14:41.929 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [3ms]
+2024-01-02 20:14:41.939 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-01-02 20:14:41.970 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [16ms]
+2024-01-02 20:14:41.979 [info] > git config --get commit.template [10ms]
+2024-01-02 20:14:41.980 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-01-02 20:14:41.980 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-01-02 20:14:41.988 [info] No remotes found in the git config file.
+2024-01-02 20:14:41.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:14:42.048 [info] > git status -z -uall [48ms]
+2024-01-02 20:14:43.069 [info] > git ls-files --stage -- /home/staer/STAER.py [3ms]
+2024-01-02 20:14:43.076 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [1ms]
+2024-01-02 20:14:43.090 [info] > git show --textconv :STAER.py [3ms]
+2024-01-02 20:14:46.058 [info] > git config --get commit.template [8ms]
+2024-01-02 20:14:46.058 [info] No remotes found in the git config file.
+2024-01-02 20:14:46.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-01-02 20:14:46.103 [info] > git status -z -uall [38ms]
+2024-01-02 20:14:52.129 [info] > git config --get commit.template [4ms]
+2024-01-02 20:14:52.139 [info] No remotes found in the git config file.
+2024-01-02 20:14:52.151 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
