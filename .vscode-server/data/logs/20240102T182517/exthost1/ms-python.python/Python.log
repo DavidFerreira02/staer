@@ -14,3 +14,4 @@
 2024-01-02 20:38:28.158 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57163 -- /home/staer/STAER.py 
 2024-01-02 20:38:29.732 [info] Connecting to DAP Server at:  127.0.0.1:37383
 2024-01-02 20:58:53.596 [info] Discover tests for workspace name: staer - uri: /home/staer
+2024-01-02 21:03:36.634 [info] Discover tests for workspace name: undefined - uri: c:/Users/david/AppData/Roaming/Code/User/settings.json

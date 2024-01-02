@@ -95,3 +95,5 @@
     at u.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
     at j.onload (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:3306)
 2024-01-02 20:52:59.836 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onProfile'
+2024-01-02 21:03:36.115 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-02 21:03:36.116 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
