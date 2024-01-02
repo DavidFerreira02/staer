@@ -1,0 +1,231 @@
+2024-01-02 18:25:24.624 [info] Log level: Info
+2024-01-02 18:25:24.624 [info] Validating found git in: "git"
+2024-01-02 18:25:24.624 [info] Using git "2.34.1" from "git"
+2024-01-02 18:25:24.624 [info] > git rev-parse --show-toplevel [48ms]
+2024-01-02 18:25:24.624 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2024-01-02 18:25:24.624 [info] Open repository: /home/staer
+2024-01-02 18:25:24.787 [info] > git rev-parse --show-toplevel [168ms]
+2024-01-02 18:25:24.789 [info] > git config --get commit.template [182ms]
+2024-01-02 18:25:24.848 [info] No remotes found in the git config file.
+2024-01-02 18:25:24.853 [info] > git rev-parse --show-toplevel [53ms]
+2024-01-02 18:25:24.868 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2024-01-02 18:25:24.902 [info] > git rev-parse --show-toplevel [34ms]
+2024-01-02 18:25:24.922 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-02 18:25:24.963 [info] > git rev-parse --show-toplevel [27ms]
+2024-01-02 18:25:24.983 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-02 18:25:25.053 [info] > git show --textconv :STAER.py [36ms]
+2024-01-02 18:25:25.062 [info] > git ls-files --stage -- /home/staer/STAER.py [21ms]
+2024-01-02 18:25:25.082 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [7ms]
+2024-01-02 18:25:25.101 [info] > git status -z -uall [218ms] (cancelled)
+2024-01-02 18:25:25.375 [info] > git check-ignore -v -z --stdin [8ms]
+2024-01-02 18:25:34.574 [info] > git config --get commit.template [46ms]
+2024-01-02 18:25:34.603 [info] No remotes found in the git config file.
+2024-01-02 18:25:34.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-01-02 18:25:37.385 [info] > git status -z -uall [2756ms] (cancelled)
+2024-01-02 18:25:37.920 [info] > git check-ignore -v -z --stdin [24ms]
+2024-01-02 18:25:40.236 [info] > git check-ignore -v -z --stdin [12ms]
+2024-01-02 18:25:44.029 [info] > git branch [1ms]
+2024-01-02 18:25:44.078 [info] > git rm --cached -r -- . [39ms]
+2024-01-02 18:25:44.078 [info] error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock
+    .vscode-server/data/logs/20240102T174146/exthost1/remoteexthost.log
+    .vscode-server/data/logs/20240102T174146/exthost1/vscode.git/Git.log
+    .vscode-server/data/logs/20240102T174146/remoteagent.log
+(use -f to force removal)
+2024-01-02 18:25:44.092 [info] > git config --get commit.template [2ms]
+2024-01-02 18:25:44.101 [info] No remotes found in the git config file.
+2024-01-02 18:25:44.102 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 18:25:45.722 [info] > git status -z -uall [1605ms] (cancelled)
+2024-01-02 18:25:57.056 [info] > git branch [1ms]
+2024-01-02 18:25:57.107 [info] > git rm --cached -r -- . [39ms]
+2024-01-02 18:25:57.107 [info] error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock
+    .vscode-server/data/logs/20240102T174146/exthost1/remoteexthost.log
+    .vscode-server/data/logs/20240102T174146/exthost1/vscode.git/Git.log
+    .vscode-server/data/logs/20240102T174146/remoteagent.log
+(use -f to force removal)
+2024-01-02 18:25:57.121 [info] > git config --get commit.template [1ms]
+2024-01-02 18:25:57.139 [info] No remotes found in the git config file.
+2024-01-02 18:25:57.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 18:25:58.694 [info] > git status -z -uall [1520ms] (cancelled)
+2024-01-02 18:26:07.786 [info] > git show --textconv :STAER.py [18ms]
+2024-01-02 18:26:07.792 [info] > git ls-files --stage -- /home/staer/STAER.py [7ms]
+2024-01-02 18:26:07.812 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [3ms]
+2024-01-02 18:26:20.709 [info] > git branch [2ms]
+2024-01-02 18:26:20.766 [info] > git rm --cached -r -- . [44ms]
+2024-01-02 18:26:20.767 [info] error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock
+    .vscode-server/data/logs/20240102T174146/exthost1/remoteexthost.log
+    .vscode-server/data/logs/20240102T174146/exthost1/vscode.git/Git.log
+    .vscode-server/data/logs/20240102T174146/remoteagent.log
+(use -f to force removal)
+2024-01-02 18:26:20.804 [info] No remotes found in the git config file.
+2024-01-02 18:26:20.805 [info] > git config --get commit.template [20ms]
+2024-01-02 18:26:20.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-01-02 18:26:21.012 [info] > git status -z -uall [183ms] (cancelled)
+2024-01-02 18:26:46.699 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 18:26:47.971 [info] > git check-ignore -v -z --stdin [7ms]
+2024-01-02 18:26:48.835 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-02 18:27:06.495 [info] > git branch [1ms]
+2024-01-02 18:27:06.542 [info] > git rm --cached -r -- . [39ms]
+2024-01-02 18:27:06.542 [info] error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock
+    .vscode-server/data/logs/20240102T174146/exthost1/remoteexthost.log
+    .vscode-server/data/logs/20240102T174146/exthost1/vscode.git/Git.log
+    .vscode-server/data/logs/20240102T174146/remoteagent.log
+(use -f to force removal)
+2024-01-02 18:27:06.557 [info] > git config --get commit.template [2ms]
+2024-01-02 18:27:06.571 [info] No remotes found in the git config file.
+2024-01-02 18:27:06.572 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 18:27:06.793 [info] > git status -z -uall [205ms] (cancelled)
+2024-01-02 18:31:34.038 [info] > git ls-files --stage -- /home/staer/STAER.py [2ms]
+2024-01-02 18:31:34.058 [info] > git show --textconv :STAER.py [1ms]
+2024-01-02 18:31:44.979 [info] > git branch [1ms]
+2024-01-02 18:31:44.991 [info] > git rm --cached -r -- . [2ms]
+2024-01-02 18:31:44.991 [info] fatal: pathspec '.' did not match any files
+2024-01-02 18:31:45.017 [info] No remotes found in the git config file.
+2024-01-02 18:31:45.018 [info] > git config --get commit.template [13ms]
+2024-01-02 18:31:45.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 18:31:46.158 [info] > git status -z -uall [1124ms] (cancelled)
+2024-01-02 18:32:01.262 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:01.968 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:03.196 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:05.841 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:06.494 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:07.256 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-02 18:32:10.474 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:11.395 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:19.296 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 18:32:21.226 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-02 18:32:22.757 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-02 18:32:27.073 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:27.640 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-02 18:32:31.035 [info] > git check-ignore -v -z --stdin [3ms]
+2024-01-02 18:32:36.787 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 18:32:56.130 [info] > git add -A -- . [2221ms]
+2024-01-02 18:32:57.221 [info] > git show --textconv :.git/COMMIT_EDITMSG [20ms]
+2024-01-02 18:32:57.230 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [13ms]
+2024-01-02 18:32:57.610 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 18:32:57.664 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [3ms]
+2024-01-02 18:32:57.682 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-01-02 20:05:35.911 [info] > git -c user.useConfigOnly=true commit --quiet [5559770ms]
+2024-01-02 20:05:35.912 [info] Aborting commit due to empty commit message.
+2024-01-02 20:05:35.936 [info] No remotes found in the git config file.
+2024-01-02 20:05:35.938 [info] > git config --get commit.template [12ms]
+2024-01-02 20:05:35.939 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:05:36.053 [info] > git show --textconv :STAER.py [19ms]
+2024-01-02 20:05:36.057 [info] > git ls-files --stage -- /home/staer/STAER.py [11ms]
+2024-01-02 20:05:36.072 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [5ms]
+2024-01-02 20:05:37.746 [info] > git status -z -uall [1797ms] (cancelled)
+2024-01-02 20:05:44.000 [info] > git show --textconv :.git/COMMIT_EDITMSG [21ms]
+2024-01-02 20:05:44.005 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [7ms]
+2024-01-02 20:06:01.016 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [6ms]
+2024-01-02 20:06:01.046 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-01-02 20:06:17.443 [info] > git -c user.useConfigOnly=true commit --quiet [35698ms]
+2024-01-02 20:06:17.443 [info] Aborting commit due to empty commit message.
+2024-01-02 20:06:17.445 [info] > git -c user.useConfigOnly=true commit --quiet [17771ms]
+2024-01-02 20:06:17.445 [info] Aborting commit due to empty commit message.
+2024-01-02 20:06:17.469 [info] > git config --get commit.template [12ms]
+2024-01-02 20:06:17.471 [info] > git config --get commit.template [4ms]
+2024-01-02 20:06:17.485 [info] No remotes found in the git config file.
+2024-01-02 20:06:17.498 [info] No remotes found in the git config file.
+2024-01-02 20:06:17.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-01-02 20:06:17.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2024-01-02 20:06:19.928 [info] > git status -z -uall [2407ms] (cancelled)
+2024-01-02 20:06:20.463 [info] > git show --textconv :STAER.py [17ms]
+2024-01-02 20:06:20.467 [info] > git ls-files --stage -- /home/staer/STAER.py [6ms]
+2024-01-02 20:06:20.485 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [3ms]
+2024-01-02 20:06:34.674 [info] > git show --textconv :.git/COMMIT_EDITMSG [21ms]
+2024-01-02 20:06:34.681 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [9ms]
+2024-01-02 20:06:35.096 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [4ms]
+2024-01-02 20:06:35.115 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-01-02 20:08:21.370 [info] > git -c user.useConfigOnly=true commit --quiet [108580ms]
+2024-01-02 20:08:21.370 [info] Aborting commit due to empty commit message.
+2024-01-02 20:08:21.386 [info] > git config --get commit.template [1ms]
+2024-01-02 20:08:21.398 [info] No remotes found in the git config file.
+2024-01-02 20:08:21.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 20:08:23.272 [info] > git status -z -uall [1862ms] (cancelled)
+2024-01-02 20:08:23.328 [info] > git show --textconv :STAER.py [18ms]
+2024-01-02 20:08:23.332 [info] > git ls-files --stage -- /home/staer/STAER.py [5ms]
+2024-01-02 20:08:23.350 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [2ms]
+2024-01-02 20:08:27.464 [info] > git show --textconv :.git/COMMIT_EDITMSG [17ms]
+2024-01-02 20:08:27.467 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [5ms]
+2024-01-02 20:08:28.396 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [3ms]
+2024-01-02 20:08:28.416 [info] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+2024-01-02 20:08:34.399 [info] > git -c user.useConfigOnly=true commit --quiet [7394ms]
+2024-01-02 20:08:34.399 [info] Aborting commit due to empty commit message.
+2024-01-02 20:08:34.436 [info] > git config --get commit.template [18ms]
+2024-01-02 20:08:34.437 [info] No remotes found in the git config file.
+2024-01-02 20:08:34.438 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:08:36.069 [info] > git status -z -uall [1614ms] (cancelled)
+2024-01-02 20:08:36.175 [info] > git show --textconv :STAER.py [43ms]
+2024-01-02 20:08:36.209 [info] > git ls-files --stage -- /home/staer/STAER.py [39ms]
+2024-01-02 20:08:36.237 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [5ms]
+2024-01-02 20:08:42.328 [info] > git add -A -- /home/staer/.vscode-server/data/logs/20240102T182517/exthost1/remoteexthost.log /home/staer/.vscode-server/data/logs/20240102T182517/exthost1/vscode.git/Git.log [23ms]
+2024-01-02 20:08:42.344 [info] > git config --get commit.template [1ms]
+2024-01-02 20:08:42.360 [info] No remotes found in the git config file.
+2024-01-02 20:08:42.361 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 20:08:42.718 [info] > git status -z -uall [344ms] (cancelled)
+2024-01-02 20:08:43.770 [info] > git ls-files --stage -- /home/staer/STAER.py [4ms]
+2024-01-02 20:08:43.781 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [0ms]
+2024-01-02 20:08:43.849 [info] > git show --textconv :STAER.py [4ms]
+2024-01-02 20:08:47.255 [info] > git add -A -- /home/staer/.vscode-server/data/logs/20240102T182517/exthost1/vscode.git/Git.log [24ms]
+2024-01-02 20:08:47.273 [info] > git config --get commit.template [1ms]
+2024-01-02 20:08:47.286 [info] No remotes found in the git config file.
+2024-01-02 20:08:47.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 20:08:49.348 [info] > git status -z -uall [2045ms] (cancelled)
+2024-01-02 20:08:49.414 [info] > git ls-files --stage -- /home/staer/STAER.py [7ms]
+2024-01-02 20:08:49.439 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [2ms]
+2024-01-02 20:08:49.508 [info] > git show --textconv :STAER.py [6ms]
+2024-01-02 20:08:57.259 [info] > git branch [2ms]
+2024-01-02 20:08:57.307 [info] > git rm --cached -r -- . [38ms]
+2024-01-02 20:08:57.307 [info] error: the following files have staged content different from both the
+file and the HEAD:
+    .vscode-server/data/logs/20240102T182517/exthost1/remoteexthost.log
+    .vscode-server/data/logs/20240102T182517/exthost1/vscode.git/Git.log
+(use -f to force removal)
+2024-01-02 20:08:57.327 [info] > git config --get commit.template [1ms]
+2024-01-02 20:08:57.351 [info] No remotes found in the git config file.
+2024-01-02 20:08:57.353 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 20:08:57.547 [info] > git status -z -uall [167ms] (cancelled)
+2024-01-02 20:09:58.335 [info] > git show --textconv :.git/COMMIT_EDITMSG [17ms]
+2024-01-02 20:09:58.339 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [5ms]
+2024-01-02 20:09:59.083 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [4ms]
+2024-01-02 20:09:59.103 [info] > git show --textconv :.git/COMMIT_EDITMSG [3ms]
+2024-01-02 20:10:16.919 [info] > git -c user.useConfigOnly=true commit --quiet [19497ms]
+2024-01-02 20:10:16.919 [info] Aborting commit due to empty commit message.
+2024-01-02 20:10:16.952 [info] > git config --get commit.template [21ms]
+2024-01-02 20:10:16.953 [info] No remotes found in the git config file.
+2024-01-02 20:10:16.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:10:18.882 [info] > git status -z -uall [1906ms] (cancelled)
+2024-01-02 20:10:18.939 [info] > git show --textconv :STAER.py [19ms]
+2024-01-02 20:10:18.943 [info] > git ls-files --stage -- /home/staer/STAER.py [5ms]
+2024-01-02 20:10:18.959 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [2ms]
+2024-01-02 20:10:24.365 [info] > git ls-files --stage -- /home/staer/STAER.py [2ms]
+2024-01-02 20:10:24.450 [info] > git show --textconv :STAER.py [2ms]
+2024-01-02 20:10:41.967 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-02 20:10:46.986 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 20:10:57.644 [info] > git branch [1ms]
+2024-01-02 20:10:57.655 [info] > git rm --cached -r -- . [3ms]
+2024-01-02 20:10:57.655 [info] fatal: pathspec '.' did not match any files
+2024-01-02 20:10:57.668 [info] > git config --get commit.template [2ms]
+2024-01-02 20:10:57.677 [info] No remotes found in the git config file.
+2024-01-02 20:10:57.677 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 20:10:57.856 [info] > git status -z -uall [170ms] (cancelled)
+2024-01-02 20:10:59.539 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-02 20:11:56.027 [info] No remotes found in the git config file.
+2024-01-02 20:11:56.027 [info] > git config --get commit.template [8ms]
+2024-01-02 20:11:56.029 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 20:11:56.231 [info] > git status -z -uall [195ms] (cancelled)
+2024-01-02 20:11:59.193 [info] > git config --get commit.template [1ms]
+2024-01-02 20:11:59.202 [info] No remotes found in the git config file.
+2024-01-02 20:11:59.203 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 20:11:59.381 [info] > git status -z -uall [169ms] (cancelled)

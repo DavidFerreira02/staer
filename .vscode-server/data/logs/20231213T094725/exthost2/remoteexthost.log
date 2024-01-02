@@ -1,0 +1,37 @@
+2023-12-13 09:47:32.385 [info] Extension host with pid 694 started
+2023-12-13 09:47:32.429 [info] Lock '/home/staer/.vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock': Lock acquired.
+2023-12-13 09:47:32.563 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-12-13 09:47:32.568 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-13 09:47:32.571 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-13 09:47:33.730 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-13 09:47:34.203 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-13 09:47:34.205 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-13 09:47:35.276 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-13 09:47:36.667 [info] Eager extensions activated
+2023-12-13 09:47:36.669 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 09:47:36.671 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 09:53:37.715 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-13 10:55:01.229 [info] ExtensionService#_doActivateExtension alexcvzz.vscode-sqlite, startup: false, activationEvent: 'onLanguage:db'
+2023-12-13 11:02:18.096 [info] Extension host terminating: received terminate message from renderer
+2023-12-13 11:02:18.097 [info] Lock '/home/staer/.vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-13 11:02:18.219 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167359)
+	at _0x245439.<computed>._stopClient (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110667)
+	at _0x245439.<computed>._createNewRequest (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110246)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-13 11:02:18.219 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167359)
+	at _0x245439.<computed>._stopClient (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110667)
+	at _0x245439.<computed>._createNewRequest (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110246)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-13 11:02:18.225 [info] Extension host with pid 694 exiting with code 0

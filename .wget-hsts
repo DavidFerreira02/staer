@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+update.code.visualstudio.com	0	1	1703700411	31536000
+code.visualstudio.com	0	1	1700642710	31536000
+bootstrap.pypa.io	0	1	1700644382	315360000

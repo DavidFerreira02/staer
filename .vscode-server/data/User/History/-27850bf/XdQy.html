@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenSky Data Visualization</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        /* Define map height */
+        #map {
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <h1>OpenSky Data Visualization</h1>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        function initMap() {
+            // Initialize the map
+            var map = L.map('map').setView([0, 0], 2);
+
+            // Add OpenStreetMap tile layer
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Extract data from Flask and create markers
+            var data = {{ data | tojson | safe }};
+            data.forEach(function(item) {
+                var marker = L.marker([item[6], item[5]]).addTo(map);
+                marker.bindPopup(item[1] + ' - ' + item[2]); // Customize marker popup
+            });
+        }
+        document.addEventListener('DOMContentLoaded', initMap);
+    </script>
+</body>
+</html>

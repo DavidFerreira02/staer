@@ -1,0 +1,11 @@
+2024-01-02 18:25:23.489 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-02 18:25:23.490 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-02 18:25:23.490 [info] Experiment 'pythonSurveyNotification' is active
+2024-01-02 18:25:23.490 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-01-02 18:25:23.490 [info] Experiment 'pythonTestAdapter' is active
+2024-01-02 18:25:23.617 [info] Default formatter is set to null for workspace /home/staer
+2024-01-02 18:25:24.210 [info] Test server listening.
+2024-01-02 18:25:24.211 [info] Python interpreter path: /bin/python3
+2024-01-02 18:25:24.563 [info] Send text to terminal: echo /bin/bash
+2024-01-02 18:25:26.183 [info] Starting Pylance language server.
+2024-01-02 18:27:33.504 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py

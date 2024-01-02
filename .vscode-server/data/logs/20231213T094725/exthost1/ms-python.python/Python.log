@@ -1,0 +1,15 @@
+2023-12-13 09:47:35.104 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-13 09:47:35.104 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-13 09:47:35.104 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-13 09:47:35.104 [info] Experiment 'pythonTestAdapter' is active
+2023-12-13 09:47:35.104 [info] Default formatter is set to null for workspace /home/staer
+2023-12-13 09:47:35.105 [info] Default formatter is set to null for workspace /home
+2023-12-13 09:47:35.105 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-13 09:47:35.105 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-13 09:47:35.105 [info] Test server listening.
+2023-12-13 09:47:35.105 [info] Python interpreter path: /bin/python3
+2023-12-13 09:47:35.105 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-13 09:47:35.330 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-13 09:47:39.605 [info] Starting Pylance language server.
+2023-12-13 09:47:45.419 [info] Discover tests for workspace name: staer - uri: /home/staer/.vscode-server/extensions/.7ac5ead4-c4aa-4c56-8f1f-d2f0fe127f35/pythonFiles/.vscode/settings.json
+2023-12-13 09:47:51.545 [info] Discover tests for workspace name: staer - uri: /home/staer/.vscode-server/extensions/.7ac5ead4-c4aa-4c56-8f1f-d2f0fe127f35/pythonFiles/pyproject.toml

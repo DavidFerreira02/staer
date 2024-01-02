@@ -1,0 +1,8 @@
+2023-12-13 09:47:41.625 [info] [Info  - 9:47:41 AM] (895) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-13 09:47:41.625 [info] [Info  - 9:47:41 AM] (895) Server root directory: /home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-13 09:47:41.626 [info] [Info  - 9:47:41 AM] (895) Starting service instance "staer"
+2023-12-13 09:47:42.128 [info] [Info  - 9:47:42 AM] (895) Setting pythonPath for service "staer": "/bin/python3"
+2023-12-13 09:47:42.138 [info] [Info  - 9:47:42 AM] (895) Setting environmentName for service "staer": "3.10.12 (global)"
+2023-12-13 09:47:42.209 [info] [Info  - 9:47:42 AM] (895) Assuming Python version 3.10
+2023-12-13 09:47:42.365 [info] [Info  - 9:47:42 AM] (895) Found 3 source files
+2023-12-13 09:47:46.000 [info] [Info  - 9:47:46 AM] (895) [BG(1)] Long operation: getSemanticTokens full at /home/staer/STAER.py (2215ms)

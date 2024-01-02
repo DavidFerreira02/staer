@@ -1,0 +1,13 @@
+2023-12-27 18:07:13.721 [info] 
+
+
+
+
+2023-12-27 18:07:13.740 [info] Extension host agent started.
+2023-12-27 18:07:13.882 [info] Deleted uninstalled extension from disk ms-python.python /home/staer/.vscode-server/extensions/ms-python.python-2023.22.0
+2023-12-27 18:07:13.883 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10
+2023-12-27 18:07:14.688 [info] [127.0.0.1][3e6b4886][ManagementConnection] New connection established.
+2023-12-27 18:07:15.978 [info] [127.0.0.1][49e371b0][ExtensionHostConnection] New connection established.
+2023-12-27 18:07:15.999 [info] [127.0.0.1][49e371b0][ExtensionHostConnection] <647> Launched Extension Host Process.
+2023-12-27 19:22:58.348 [info] [127.0.0.1][3e6b4886][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-27 19:22:58.529 [info] [127.0.0.1][49e371b0][ExtensionHostConnection] <647> Extension Host Process exited with code: 0, signal: null.

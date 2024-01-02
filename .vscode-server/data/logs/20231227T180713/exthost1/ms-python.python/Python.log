@@ -1,0 +1,10 @@
+2023-12-27 18:07:19.918 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-27 18:07:19.918 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-27 18:07:19.918 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-27 18:07:19.918 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-27 18:07:19.918 [info] Experiment 'pythonTestAdapter' is active
+2023-12-27 18:07:20.804 [info] Default formatter is set to null for workspace /home/staer
+2023-12-27 18:07:21.568 [info] Test server listening.
+2023-12-27 18:07:21.581 [info] Python interpreter path: /bin/python3
+2023-12-27 18:07:21.726 [info] Send text to terminal: echo /bin/bash
+2023-12-27 18:07:23.376 [info] Starting Pylance language server.

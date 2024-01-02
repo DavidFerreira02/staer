@@ -1,0 +1,187 @@
+2024-01-02 17:41:54.297 [info] Log level: Info
+2024-01-02 17:41:54.297 [info] Validating found git in: "git"
+2024-01-02 17:41:54.297 [info] Using git "2.34.1" from "git"
+2024-01-02 17:41:54.297 [info] > git rev-parse --show-toplevel [304ms]
+2024-01-02 17:41:54.297 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.297 [info] > git rev-parse --show-toplevel [21ms]
+2024-01-02 17:41:54.297 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.299 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-02 17:41:54.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.318 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-02 17:41:54.318 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.505 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-02 17:41:54.505 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.525 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-02 17:41:54.525 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.550 [info] > git rev-parse --show-toplevel [11ms]
+2024-01-02 17:41:54.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:41:54.592 [info] > git rev-parse --show-toplevel [29ms]
+2024-01-02 17:41:54.592 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-02 17:44:42.320 [info] > git init -b main [16ms]
+2024-01-02 17:44:42.329 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-02 17:44:42.341 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-01-02 17:44:42.358 [info] Open repository: /home/staer
+2024-01-02 17:44:42.384 [info] > git config --get commit.template [1ms]
+2024-01-02 17:44:42.395 [info] No remotes found in the git config file.
+2024-01-02 17:44:42.397 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 17:44:42.521 [info] > git status -z -uall [111ms] (cancelled)
+2024-01-02 17:44:42.956 [info] > git show --textconv :STAER.py [18ms]
+2024-01-02 17:44:42.960 [info] > git ls-files --stage -- /home/staer/STAER.py [6ms]
+2024-01-02 17:44:43.050 [info] > git check-ignore -v -z --stdin [3ms]
+2024-01-02 17:44:43.689 [info] > git ls-files --stage -- /home/staer/STAER.py [3ms]
+2024-01-02 17:44:43.747 [info] > git show --textconv :STAER.py [2ms]
+2024-01-02 17:45:01.782 [info] > git add -A -- . [19413ms]
+2024-01-02 17:45:01.880 [info] > git config --get commit.template [99ms]
+2024-01-02 17:45:01.901 [info] No remotes found in the git config file.
+2024-01-02 17:45:01.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 17:45:04.275 [info] > git status -z -uall [2356ms] (cancelled)
+2024-01-02 17:45:04.277 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty-message [2480ms]
+2024-01-02 17:45:04.277 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-01-02 17:45:04.316 [info] > git config --get-all user.name [26ms]
+2024-01-02 17:45:04.356 [info] > git config --get commit.template [21ms]
+2024-01-02 17:45:04.357 [info] No remotes found in the git config file.
+2024-01-02 17:45:04.358 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-02 17:45:07.521 [info] > git status -z -uall [3140ms] (cancelled)
+2024-01-02 17:45:07.714 [info] > git check-ignore -v -z --stdin [203ms]
+2024-01-02 17:45:07.751 [info] > git ls-files --stage -- /home/staer/STAER.py [8ms]
+2024-01-02 17:45:07.769 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [1ms]
+2024-01-02 17:45:07.801 [info] > git show --textconv :STAER.py [8ms]
+2024-01-02 17:45:29.975 [info] > git check-ignore -v -z --stdin [12ms]
+2024-01-02 17:45:41.590 [info] > git check-ignore -v -z --stdin [11ms]
+2024-01-02 17:46:00.477 [info] > git -c user.useConfigOnly=true commit --quiet [23ms]
+2024-01-02 17:46:00.477 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-01-02 17:46:00.485 [info] > git config --get-all user.name [1ms]
+2024-01-02 17:46:00.501 [info] No remotes found in the git config file.
+2024-01-02 17:46:00.501 [info] > git config --get commit.template [8ms]
+2024-01-02 17:46:00.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 17:46:02.355 [info] > git status -z -uall [1846ms] (cancelled)
+2024-01-02 17:46:06.415 [info] > git ls-files --stage -- /home/staer/STAER.py [5ms]
+2024-01-02 17:46:06.427 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [2ms]
+2024-01-02 17:46:06.494 [info] > git show --textconv :STAER.py [5ms]
+2024-01-02 17:46:11.402 [info] > git -c user.useConfigOnly=true commit --quiet [24ms]
+2024-01-02 17:46:11.402 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-01-02 17:46:11.414 [info] > git config --get-all user.name [1ms]
+2024-01-02 17:46:11.438 [info] > git config --get commit.template [11ms]
+2024-01-02 17:46:11.439 [info] No remotes found in the git config file.
+2024-01-02 17:46:11.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 17:46:11.629 [info] > git status -z -uall [179ms] (cancelled)
+2024-01-02 17:46:20.525 [info] > git ls-files --stage -- /home/staer/STAER.py [5ms]
+2024-01-02 17:46:20.538 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [1ms]
+2024-01-02 17:46:20.606 [info] > git show --textconv :STAER.py [4ms]
+2024-01-02 17:46:58.277 [info] > git -c user.useConfigOnly=true commit --quiet [25ms]
+2024-01-02 17:46:58.277 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-01-02 17:46:58.286 [info] > git config --get-all user.name [1ms]
+2024-01-02 17:46:58.302 [info] No remotes found in the git config file.
+2024-01-02 17:46:58.302 [info] > git config --get commit.template [8ms]
+2024-01-02 17:46:58.302 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 17:47:00.134 [info] > git status -z -uall [1825ms] (cancelled)
+2024-01-02 17:47:01.325 [info] > git ls-files --stage -- /home/staer/STAER.py [6ms]
+2024-01-02 17:47:01.339 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [1ms]
+2024-01-02 17:47:01.420 [info] > git show --textconv :STAER.py [9ms]
+2024-01-02 17:47:14.373 [info] > git -c user.useConfigOnly=true commit --quiet [31ms]
+2024-01-02 17:47:14.374 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-01-02 17:47:14.386 [info] > git config --get-all user.name [1ms]
+2024-01-02 17:47:14.412 [info] No remotes found in the git config file.
+2024-01-02 17:47:14.413 [info] > git config --get commit.template [13ms]
+2024-01-02 17:47:14.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-02 17:47:14.582 [info] > git status -z -uall [160ms] (cancelled)
+2024-01-02 17:47:17.342 [info] > git ls-files --stage -- /home/staer/STAER.py [5ms]
+2024-01-02 17:47:17.354 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [1ms]
+2024-01-02 17:47:17.421 [info] > git show --textconv :STAER.py [5ms]
+2024-01-02 17:47:26.104 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-02 17:47:27.576 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-02 17:47:30.005 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-02 17:47:31.017 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-02 17:47:33.989 [info] > git check-ignore -v -z --stdin [15ms]
+2024-01-02 17:47:34.516 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-02 17:48:16.516 [info] > git check-ignore -v -z --stdin [12ms]
+2024-01-02 17:48:36.872 [info] > git config --get commit.template [1ms]
+2024-01-02 17:48:36.881 [info] No remotes found in the git config file.
+2024-01-02 17:48:36.882 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-02 17:48:37.064 [info] > git status -z -uall [173ms] (cancelled)
+2024-01-02 17:48:43.113 [info] > git check-ignore -v -z --stdin [9ms]
+2024-01-02 17:48:46.794 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 17:48:47.409 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 17:49:31.336 [info] > git check-ignore -v -z --stdin [14ms]
+2024-01-02 17:49:32.673 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 17:49:34.658 [info] > git check-ignore -v -z --stdin [7ms]
+2024-01-02 17:49:37.729 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 17:51:03.583 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-02 17:51:43.031 [info] > git show --textconv :.git/COMMIT_EDITMSG [20ms]
+2024-01-02 17:51:43.036 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [10ms]
+2024-01-02 17:51:43.389 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-02 17:51:43.668 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [4ms]
+2024-01-02 17:51:43.687 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-01-02 17:57:27.109 [info] > git show --textconv :STAER.py [18ms]
+2024-01-02 17:57:27.113 [info] > git ls-files --stage -- /home/staer/STAER.py [6ms]
+2024-01-02 17:57:27.128 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [2ms]
+2024-01-02 17:57:27.873 [info] > git show --textconv :.git/COMMIT_EDITMSG [14ms]
+2024-01-02 17:57:27.877 [info] > git ls-files --stage -- /home/staer/.git/COMMIT_EDITMSG [5ms]
+2024-01-02 18:21:22.033 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-02 18:21:25.553 [info] > git show --textconv :.vscode-server/data/logs/20240102T174146/exthost1/vscode.git/Git.log [22ms]
+2024-01-02 18:21:25.557 [info] > git ls-files --stage -- /home/staer/.vscode-server/data/logs/20240102T174146/exthost1/vscode.git/Git.log [8ms]
+2024-01-02 18:21:25.570 [info] > git cat-file -s 3663c8459309461b001430e2cf89d8b299764af0 [1ms]
+2024-01-02 18:21:26.063 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-02 18:22:20.212 [info] > git show --textconv :STAER.py [11ms]
+2024-01-02 18:22:20.217 [info] > git ls-files --stage -- /home/staer/STAER.py [4ms]
+2024-01-02 18:22:20.231 [info] > git cat-file -s 2ec9a485cd9a4fd5e5e24eb499fc5f10e05035f3 [3ms]

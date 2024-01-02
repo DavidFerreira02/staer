@@ -1,0 +1,31 @@
+2023-12-24 18:38:55.488 [info] 
+
+
+
+
+2023-12-24 18:38:55.508 [info] Extension host agent started.
+2023-12-24 18:38:55.631 [info] Deleted uninstalled extension from disk ms-python.python /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0
+2023-12-24 18:38:56.111 [info] [127.0.0.1][5f511aa9][ManagementConnection] New connection established.
+2023-12-24 18:38:56.963 [info] [127.0.0.1][0f0b777a][ExtensionHostConnection] New connection established.
+2023-12-24 18:38:56.981 [info] [127.0.0.1][0f0b777a][ExtensionHostConnection] <637> Launched Extension Host Process.
+2023-12-24 18:39:01.898 [info] Getting Manifest... ms-python.python
+2023-12-24 18:39:01.899 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-24 18:39:02.125 [info] Installing extension: ms-python.vscode-pylance
+2023-12-24 18:39:02.132 [info] Installing extension: ms-python.python
+2023-12-24 18:39:03.713 [info] Getting Manifest... ms-python.python
+2023-12-24 18:39:03.881 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-12-24 18:39:05.638 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-12-24 18:39:05.773 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-12-24 18:39:17.464 [info] Extracted extension to file:///home/staer/.vscode-server/extensions/ms-python.python-2023.22.1: ms-python.python
+2023-12-24 18:39:17.481 [info] Renamed to /home/staer/.vscode-server/extensions/ms-python.python-2023.22.1
+2023-12-24 18:39:17.491 [info] Extracting extension completed. ms-python.python
+2023-12-24 18:39:17.509 [info] Extension installed successfully: ms-python.python
+2023-12-24 18:39:17.512 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-12-24 18:39:17.522 [info] Marked extension as uninstalled ms-python.python-2023.22.0
+2023-12-24 18:39:25.230 [info] Extracted extension to file:///home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2023-12-24 18:39:25.262 [info] Renamed to /home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1
+2023-12-24 18:39:25.281 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-24 18:39:25.298 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-24 18:39:25.319 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.11.10
+2023-12-24 19:40:08.807 [info] [127.0.0.1][5f511aa9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-24 19:40:09.052 [info] [127.0.0.1][0f0b777a][ExtensionHostConnection] <637> Extension Host Process exited with code: 0, signal: null.

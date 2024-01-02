@@ -1,0 +1,107 @@
+2023-11-29 09:21:29.724 [info] Extension host with pid 614 started
+2023-11-29 09:21:29.759 [info] Lock '/home/staer/.vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock': Lock acquired.
+2023-11-29 09:21:30.092 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-29 09:21:30.095 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-11-29 09:21:30.097 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-29 09:21:31.100 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-29 09:21:31.416 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-29 09:21:31.416 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-29 09:21:32.657 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-11-29 09:21:33.254 [info] Eager extensions activated
+2023-11-29 09:21:33.254 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-29 09:21:33.255 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-29 09:23:04.147 [info] ExtensionService#_doActivateExtension alexcvzz.vscode-sqlite, startup: false, activationEvent: 'onCommand:sqlite.explorer.add'
+2023-11-29 09:23:48.314 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-29 09:46:45.406 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-11-29 09:47:10.595 [error] Error: Invalid debug adapter
+    at v.m (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1552:95)
+    at v.$acceptDAError (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1551:7629)
+    at $.S (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:18856)
+    at $.Q (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:18622)
+    at $.M (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:17715)
+    at $.L (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:16794)
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:15597)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at s.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:14396)
+    at b.z (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:17461)
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:15913)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at u.acceptChunk (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:12170)
+    at vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:11457
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:4917)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:3301)
+2023-11-29 09:47:10.596 [error] Error: Invalid debug adapter
+    at v.m (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1552:95)
+    at v.$acceptDAExit (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1552:35)
+    at $.S (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:18856)
+    at $.Q (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:18622)
+    at $.M (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:17715)
+    at $.L (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:16933)
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:15597)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at s.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:14396)
+    at b.z (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:17461)
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:15913)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at u.acceptChunk (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:12170)
+    at vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:11457
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:4917)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:3301)
+2023-11-29 09:47:15.999 [error] Error: Invalid debug adapter
+    at v.m (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1552:95)
+    at v.$acceptDAExit (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1552:35)
+    at $.S (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:18856)
+    at $.Q (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:18622)
+    at $.M (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:17715)
+    at $.L (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:16933)
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1560:15597)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at s.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:14396)
+    at b.z (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:17461)
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:15913)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at u.acceptChunk (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:12170)
+    at vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:11457
+    at u.value (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:4917)
+    at f.y (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at f.fire (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/david/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:676:3301)
+2023-11-29 10:05:23.621 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-11-29 10:52:58.566 [error] [ms-python.python] provider FAILED
+2023-11-29 10:52:58.567 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133005
+	at _0x9ba18e (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144766)
+	at async ie.provideCompletionItems (/home/staer/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2023-11-29 11:02:22.156 [info] Extension host terminating: received terminate message from renderer
+2023-11-29 11:02:22.158 [info] Lock '/home/staer/.vscode-server/data/User/workspaceStorage/85653a9502b7c7cc821bf0a477d4edfe/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-29 11:02:22.317 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167359)
+	at _0x245439.<computed>._stopClient (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110667)
+	at _0x245439.<computed>._createNewRequest (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110246)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-11-29 11:02:22.317 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167359)
+	at _0x245439.<computed>._stopClient (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110667)
+	at _0x245439.<computed>._createNewRequest (/home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110246)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-11-29 11:02:22.325 [info] Extension host with pid 614 exiting with code 0

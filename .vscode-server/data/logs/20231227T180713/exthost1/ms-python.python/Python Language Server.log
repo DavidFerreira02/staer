@@ -1,0 +1,10 @@
+2023-12-27 18:07:22.527 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2023-12-27 18:07:23.347 [info] [Info  - 6:07:23 PM] (778) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2023-12-27 18:07:23.348 [info] [Info  - 6:07:23 PM] (778) Server root directory: /home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2023-12-27 18:07:23.348 [info] [Info  - 6:07:23 PM] (778) Starting service instance "staer"
+2023-12-27 18:07:23.470 [info] [Info  - 6:07:23 PM] (778) Setting pythonPath for service "staer": "/bin/python3"
+2023-12-27 18:07:23.471 [info] [Info  - 6:07:23 PM] (778) Setting environmentName for service "staer": "3.10.12 (global)"
+2023-12-27 18:07:23.680 [info] [Info  - 6:07:23 PM] (778) Assuming Python version 3.10
+2023-12-27 18:07:23.843 [info] [Info  - 6:07:23 PM] (778) Found 3 source files
+2023-12-27 18:07:28.598 [info] [Info  - 6:07:28 PM] (778) [IDX(2)] Long operation: index execution environment /home/staer (2218ms)
+2023-12-27 18:07:28.621 [info] [Info  - 6:07:28 PM] (778) [IDX(2)] Long operation: index packages /home/staer (2254ms)

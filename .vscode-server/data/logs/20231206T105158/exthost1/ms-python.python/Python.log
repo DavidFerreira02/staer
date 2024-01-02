@@ -1,0 +1,30 @@
+2023-12-06 10:52:04.626 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-06 10:52:04.626 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-06 10:52:04.626 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-06 10:52:04.626 [info] Experiment 'pythonTestAdapter' is active
+2023-12-06 10:52:04.776 [info] Default formatter is set to null for workspace /home/staer
+2023-12-06 10:52:04.776 [info] Default formatter is set to null for workspace /home
+2023-12-06 10:52:04.812 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:52:04.813 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:52:05.777 [info] Test server listening.
+2023-12-06 10:52:06.084 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-06 10:52:06.084 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-06 10:52:06.084 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 10:52:06.084 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 10:52:06.084 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 10:52:06.084 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 10:52:06.172 [info] Python interpreter path: /bin/python3
+2023-12-06 10:52:06.177 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:52:06.873 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-06 10:52:08.284 [info] Starting Pylance language server.
+2023-12-06 10:53:34.551 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:53:34.683 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:55:21.451 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:55:21.498 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:57:28.828 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:57:28.849 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:58:22.240 [info] Not enabling terminal env var experiment in multiroot remote workspaces
+2023-12-06 10:58:22.259 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:59:11.821 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:59:15.386 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:59:52.406 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py

@@ -1,0 +1,7 @@
+2023-12-24 18:39:08.063 [info] [Info  - 6:39:08 PM] (812) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-24 18:39:08.063 [info] [Info  - 6:39:08 PM] (812) Server root directory: /home/staer/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-24 18:39:08.064 [info] [Info  - 6:39:08 PM] (812) Starting service instance "staer"
+2023-12-24 18:39:08.168 [info] [Info  - 6:39:08 PM] (812) Setting pythonPath for service "staer": "/bin/python3"
+2023-12-24 18:39:08.168 [info] [Info  - 6:39:08 PM] (812) Setting environmentName for service "staer": "3.10.12 (global)"
+2023-12-24 18:39:08.226 [info] [Info  - 6:39:08 PM] (812) Assuming Python version 3.10
+2023-12-24 18:39:08.337 [info] [Info  - 6:39:08 PM] (812) Found 3 source files

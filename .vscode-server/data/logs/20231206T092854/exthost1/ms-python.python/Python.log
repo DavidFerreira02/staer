@@ -1,0 +1,108 @@
+2023-12-06 09:29:01.318 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-12-06 09:29:01.318 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-12-06 09:29:01.318 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-06 09:29:01.318 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-06 09:29:01.318 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-06 09:29:01.318 [info] Experiment 'pythonTestAdapter' is active
+2023-12-06 09:29:01.318 [info] Default formatter is set to null for workspace /home/staer
+2023-12-06 09:29:01.318 [info] Test server listening.
+2023-12-06 09:29:01.318 [info] Python interpreter path: /bin/python3
+2023-12-06 09:29:03.430 [info] Starting Pylance language server.
+2023-12-06 09:29:55.465 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:38:04.436 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 09:38:05.823 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34207 -- /home/staer/STAER.py 
+2023-12-06 09:38:19.494 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:39:17.084 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:39:36.198 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:39:40.166 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:39:41.407 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:40:18.502 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:41:05.320 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:49:04.304 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:49:33.889 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:51:45.791 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:52:05.138 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:54:43.325 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:55:09.858 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:55:12.344 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 09:55:17.714 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:56:29.983 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 09:56:34.185 [info] Using launch configuration in workspace folder.
+2023-12-06 09:56:34.333 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 09:56:34.484 [info] Send text to terminal:  cd /home/staer ; /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 48607 -- /home/staer/STAER.py 
+2023-12-06 09:56:46.422 [info] Using launch configuration in workspace folder.
+2023-12-06 09:56:46.544 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 09:56:47.905 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44217 -- /home/staer/STAER.py 
+2023-12-06 09:56:48.988 [info] Connecting to DAP Server at:  127.0.0.1:58873
+2023-12-06 09:59:48.354 [info] Using launch configuration in workspace folder.
+2023-12-06 09:59:48.537 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 09:59:48.641 [info] Send text to terminal:  cd /home/staer ; /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34993 -- /home/staer/STAER.py 
+2023-12-06 09:59:49.717 [info] Connecting to DAP Server at:  127.0.0.1:46443
+2023-12-06 10:06:17.951 [info] Using launch configuration in workspace folder.
+2023-12-06 10:06:18.192 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:06:18.324 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:06:18.378 [info] Send text to terminal:  cd /home/staer ; /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34849 -- /home/staer/STAER.py 
+2023-12-06 10:06:19.467 [info] Connecting to DAP Server at:  127.0.0.1:36751
+2023-12-06 10:06:30.533 [info] Using launch configuration in workspace folder.
+2023-12-06 10:06:30.740 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:06:32.062 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 32997 -- /home/staer/STAER.py 
+2023-12-06 10:06:46.566 [info] Using launch configuration in workspace folder.
+2023-12-06 10:06:46.673 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:06:48.023 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 46083 -- /home/staer/STAER.py 
+2023-12-06 10:06:49.150 [info] Connecting to DAP Server at:  127.0.0.1:45119
+2023-12-06 10:07:08.397 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:07:25.601 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:07:29.755 [info] Using launch configuration in workspace folder.
+2023-12-06 10:07:29.891 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:07:31.233 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44817 -- /home/staer/STAER.py 
+2023-12-06 10:07:32.371 [info] Connecting to DAP Server at:  127.0.0.1:58173
+2023-12-06 10:09:20.479 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:09:48.677 [info] Using launch configuration in workspace folder.
+2023-12-06 10:09:48.889 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:09:49.036 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:09:50.210 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34627 -- /home/staer/STAER.py 
+2023-12-06 10:09:51.300 [info] Connecting to DAP Server at:  127.0.0.1:60905
+2023-12-06 10:11:32.335 [info] Using launch configuration in workspace folder.
+2023-12-06 10:11:32.479 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:11:33.947 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49687 -- /home/staer/STAER.py 
+2023-12-06 10:11:35.022 [info] Connecting to DAP Server at:  127.0.0.1:35157
+2023-12-06 10:12:35.982 [info] Using launch configuration in workspace folder.
+2023-12-06 10:12:36.139 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:12:37.521 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42765 -- /home/staer/STAER.py 
+2023-12-06 10:12:38.589 [info] Connecting to DAP Server at:  127.0.0.1:49181
+2023-12-06 10:15:25.591 [info] Using launch configuration in workspace folder.
+2023-12-06 10:15:25.769 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:15:27.164 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51449 -- /home/staer/STAER.py 
+2023-12-06 10:15:28.258 [info] Connecting to DAP Server at:  127.0.0.1:54643
+2023-12-06 10:21:05.351 [info] Using launch configuration in workspace folder.
+2023-12-06 10:21:05.486 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:21:06.880 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50427 -- /home/staer/STAER.py 
+2023-12-06 10:21:08.186 [info] Connecting to DAP Server at:  127.0.0.1:47231
+2023-12-06 10:21:56.867 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-12-06 10:22:08.716 [info] Using launch configuration in workspace folder.
+2023-12-06 10:22:08.863 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:22:10.297 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53153 -- /home/staer/STAER.py 
+2023-12-06 10:22:11.426 [info] Connecting to DAP Server at:  127.0.0.1:48543
+2023-12-06 10:25:47.024 [info] Using launch configuration in workspace folder.
+2023-12-06 10:25:47.151 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:25:48.544 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34957 -- /home/staer/STAER.py 
+2023-12-06 10:25:49.791 [info] Connecting to DAP Server at:  127.0.0.1:57799
+2023-12-06 10:28:45.521 [info] Using launch configuration in workspace folder.
+2023-12-06 10:28:45.659 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:28:47.053 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55577 -- /home/staer/STAER.py 
+2023-12-06 10:28:48.199 [info] Connecting to DAP Server at:  127.0.0.1:40165
+2023-12-06 10:30:25.424 [info] Using launch configuration in workspace folder.
+2023-12-06 10:30:25.524 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:30:25.673 [info] Send text to terminal:  cd /home/staer ; /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53471 -- /home/staer/STAER.py 
+2023-12-06 10:30:26.848 [info] Connecting to DAP Server at:  127.0.0.1:59707
+2023-12-06 10:30:32.411 [info] Using launch configuration in workspace folder.
+2023-12-06 10:30:32.560 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:30:32.666 [info] Send text to terminal:  cd /home/staer ; /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60853 -- /home/staer/STAER.py 
+2023-12-06 10:30:33.739 [info] Connecting to DAP Server at:  127.0.0.1:36469
+2023-12-06 10:35:39.063 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:35:48.907 [info] Using launch configuration in workspace folder.
+2023-12-06 10:35:49.026 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-06 10:35:50.428 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57541 -- /home/staer/STAER.py 
+2023-12-06 10:35:51.561 [info] Connecting to DAP Server at:  127.0.0.1:33071
+2023-12-06 10:35:58.802 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-12-06 10:36:00.374 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py

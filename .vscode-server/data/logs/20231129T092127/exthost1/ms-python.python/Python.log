@@ -1,0 +1,63 @@
+2023-11-29 09:21:33.319 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-29 09:21:33.319 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-29 09:21:33.319 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-11-29 09:21:33.319 [info] Experiment 'pythonREPLSmartSend' is active
+2023-11-29 09:21:33.319 [info] Experiment 'pythonSurveyNotification' is active
+2023-11-29 09:21:33.319 [info] Experiment 'pythonTestAdapter' is active
+2023-11-29 09:21:33.319 [info] Default formatter is set to null for workspace /home/staer
+2023-11-29 09:21:33.323 [info] Test server listening.
+2023-11-29 09:21:33.345 [info] Python interpreter path: /bin/python3
+2023-11-29 09:21:35.445 [info] Starting Pylance language server.
+2023-11-29 09:42:12.437 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 09:42:12.643 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 09:42:12.699 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 09:43:21.239 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 09:46:58.175 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-29 09:46:59.580 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 48507 -- /home/staer/flask_app.py 
+2023-11-29 09:47:10.791 [info] DAP Server launched with command: /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-29 09:47:10.939 [info] Send text to terminal:  cd /home/staer ; /usr/bin/env /bin/python3 /home/staer/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41817 -- /home/staer/flask_app.py 
+2023-11-29 09:48:19.481 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 09:53:54.875 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:02:57.304 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:04:33.260 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:05:23.482 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:05:23.717 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:05:32.126 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:05:32.366 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:07:23.196 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:07:36.280 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:08:18.921 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:09:14.522 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:09:28.784 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:09:42.798 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:13:50.350 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:14:52.694 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:16:27.686 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:17:18.311 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:17:27.803 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:19:22.446 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:20:36.379 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:20:51.318 [info] Send text to terminal: /bin/python3 /home/staer/flask_app.py
+2023-11-29 10:22:14.281 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:23:43.486 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:29:42.229 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:33:48.549 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:33:48.788 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:33:56.634 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:35:13.931 [info] Discover tests for workspace name: staer - uri: /home/staer/flask_app.py
+2023-11-29 10:41:06.423 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:41:45.682 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:48:51.481 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:49:04.963 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:49:52.869 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:49:53.108 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:50:46.803 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:51:44.339 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:51:44.558 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:53:00.973 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:54:32.997 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:54:34.326 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:55:23.396 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:57:47.016 [info] Discover tests for workspace name: staer - uri: /home/staer/STAER.py
+2023-11-29 10:57:52.333 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
+2023-11-29 10:58:42.833 [info] Send text to terminal: /bin/python3 /home/staer/STAER.py
